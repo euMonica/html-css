@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\desafio2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "desafio2"
+	}
+}

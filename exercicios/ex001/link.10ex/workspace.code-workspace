@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\11eex"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "livro"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "11eex"
+	}
+}
